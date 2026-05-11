@@ -1,5 +1,7 @@
 # Stock Watchlist MCP
 
+**[Watch the demo on YouTube](https://youtu.be/AGXHvlbpwpA)**
+
 An MCP (Model Context Protocol) server that gives Claude live access to Yahoo Finance data, a personal stock watchlist, and a Prefab UI portfolio dashboard — no API key required.
 
 ## Tools
