@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "UBER",
+    "name": "Uber Technologies, Inc.",
+    "exchange": "NYSE",
+    "addedDate": "2026-05-11",
+    "price": 75.12,
+    "change1d": -1.67,
+    "change1y": null,
+    "week52High": 101.99,
+    "week52Low": 68.46,
+    "analystRating": "Strong Buy",
+    "avgPriceTarget": 107.79,
+    "upsideToTarget": 40.48,
+    "note": "Down ~26% from its 52-week high but showing 14% YoY revenue growth in Q1 2026. Heavy AV investment could be a long-term catalyst. Trading near 52-week lows with analysts targeting 40% upside.",
+    "rating": "BUY"
+  },
+  {
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "exchange": "NASDAQ",
+    "addedDate": "2026-05-11",
+    "price": 91.60,
+    "change1d": -0.83,
+    "change1y": -56.07,
+    "week52High": null,
+    "week52Low": null,
+    "analystRating": "Buy",
+    "avgPriceTarget": 158.00,
+    "upsideToTarget": 77.77,
+    "note": "Crushed ~56% over the past year, but up 35% this month alone — the selloff may be bottoming. AI-powered dev tools (Jira, Confluence) position it well for enterprise spending recovery. Analysts see 78% upside.",
+    "rating": "BUY"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit Inc.",
+    "exchange": "NASDAQ",
+    "addedDate": "2026-05-11",
+    "price": 396.31,
+    "change1d": -2.57,
+    "change1y": -38.42,
+    "week52High": 813.70,
+    "week52Low": 342.11,
+    "analystRating": "Strong Buy",
+    "avgPriceTarget": 799.32,
+    "upsideToTarget": 46.59,
+    "note": "Trading more than 50% below its 52-week high. TurboTax + QuickBooks AI integration is a durable moat, and SMB financial software is sticky. Massive upside if the market re-rates this back toward prior levels.",
+    "rating": "HOLD"
+  }
+]
